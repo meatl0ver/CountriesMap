@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries Map</string>
+    <string name="input_country">Введите страну</string>
+    <string name="capital">Столица:</string>
+    <string name="input_capital">Введите столицу</string>
+    <string name="add_btn">Добавить</string>
+</resources>
